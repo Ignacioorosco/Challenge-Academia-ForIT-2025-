@@ -1,0 +1,25 @@
+{
+  "Tarea": [
+    {
+      "id": 1,
+      "title": "Estudiar React",
+      "description": "Repasar los hooks y cómo usar useEffect correctamente.",
+      "completed": true,
+      "createdAt": "2024-06-01T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Crear API con ExpressA",
+      "description": "Implementar los endpoints para tareas.",
+      "completed": true,
+      "createdAt": "2024-06-05T14:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Diseñar interfaz",
+      "description": "Hacer los componentes de TaskList, TaskItem y TaskForm.",
+      "completed": true,
+      "createdAt": "2024-06-10T08:15:00Z"
+    }
+  ]
+}
